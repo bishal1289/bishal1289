@@ -1,12 +1,16 @@
+<h1 align="center">Hi 👋, I'm Bishal Mandal</h1>
 <h3 align="center">Computer Science student with a passion for coding, automation and problem-solving. Experienced in various programming languages and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal1289&label=Profile%20views&color=0e75b6&style=flat" alt="bishal1289" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishal1289" alt="bishal1289" /></a> </p>
 
+- 📫 How to reach me **bishalmandal98147@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bishal-mandal-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-mandal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bishal-mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-mandal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/bishalmandal235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bishalmandal235/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
